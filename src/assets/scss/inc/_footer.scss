@@ -1,0 +1,54 @@
+﻿footer {
+    background-position: 50% 50%;
+    background-size: cover;
+    bottom: 0;
+
+    .container {
+        padding-top: 7rem;
+        padding-bottom: 7rem;
+        position: relative;
+    }
+
+    h1 {
+        font-size: 3.6rem;
+        text-transform: uppercase;
+    }
+
+    .lead {
+        font-size: 1.35rem;
+    }
+
+    &.has-image {
+        color: #eee;
+        text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+
+        .dimmer {
+            background: #000;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: .45;
+        }
+    }
+
+    .link-group {
+        list-style-type: none;
+        padding-left: 0;
+
+        a {
+            color: #f94c3b;
+            padding-left: 0.30em;
+        }
+    }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (max-width: 767px) {
+    .footer {
+        .container {
+            max-width: 100%;
+        }
+    }
+}

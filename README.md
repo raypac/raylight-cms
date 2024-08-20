@@ -18,6 +18,19 @@
 - **Performance-Oriented**: With its lightweight design, Piranha CMS ensures fast load times and efficient performance, even under high traffic.
 - **Community and Support**: The Piranha CMS community is active, and there are plenty of resources available, including documentation, forums, and tutorials to help you get started.
 
+## My Portfolio Site
+
+I chose Piranha CMS to build my [raylight cms](https://github.com/raypac/raylight-cms) because of its flexibility, performance, and ease of use. Piranha CMS allowed me to create a site that showcases my work and skills in a way that is both professional and easy to manage.
+
+### Reasons for Choosing Piranha CMS for My Portfolio
+
+- **Ease of Customization**: Piranha CMS's modular architecture allowed me to easily customize the site to fit my personal branding and needs.
+- **Content Management**: The user-friendly interface made it simple to update my portfolio with new projects and blog posts without needing to dive deep into code.
+- **SEO Features**: The built-in SEO tools helped optimize my site for search engines, ensuring my portfolio is easily discoverable.
+- **Fast and Reliable**: The lightweight nature of Piranha CMS ensured that my site loads quickly and runs smoothly, providing a great user experience.
+
+Feel free to explore my portfolio and see how Piranha CMS has helped me create a dynamic and engaging online presence.
+
 ## Getting Started
 
 To start using Piranha CMS in your project:

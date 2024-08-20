@@ -20,7 +20,7 @@
 
 ## My Portfolio Site
 
-I chose Piranha CMS to build my [raylight cms](https://github.com/raypac/raylight-cms) because of its flexibility, performance, and ease of use. Piranha CMS allowed me to create a site that showcases my work and skills in a way that is both professional and easy to manage.
+I chose Piranha CMS to build my [raylight cms](https://raylight.me) because of its flexibility, performance, and ease of use. Piranha CMS allowed me to create a site that showcases my work and skills in a way that is both professional and easy to manage.
 
 ### Reasons for Choosing Piranha CMS for My Portfolio
 

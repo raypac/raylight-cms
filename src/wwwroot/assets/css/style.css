@@ -70,7 +70,6 @@ blockquote {
 .navbar.fixed-top .navbar-nav {
   font-size: 0.875rem;
   font-weight: bold;
-  text-transform: uppercase;
 }
 .navbar.fixed-top .navbar-nav .active a {
   color: #E76F51;

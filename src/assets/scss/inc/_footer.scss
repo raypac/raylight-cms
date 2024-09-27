@@ -1,11 +1,15 @@
 ﻿footer {
+    background: #264653;
     background-position: 50% 50%;
     background-size: cover;
+    position: relative;
     bottom: 0;
+    width: 100%;
 
     .container {
-        padding-top: 7rem;
-        padding-bottom: 7rem;
+        color: darken(#FFFFFF, 10%);
+        padding-top: 1rem;
+        padding-bottom: 1rem;
         position: relative;
     }
 
@@ -38,7 +42,7 @@
         padding-left: 0;
 
         a {
-            color: #f94c3b;
+            color: #E76F51;
             padding-left: 0.30em;
         }
     }

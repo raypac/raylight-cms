@@ -1,5 +1,5 @@
 .navbar.fixed-top {
-    background: #fff;
+    background: #264653;
     border-bottom: 1px solid #ddd;
     font-family: Raleway,sans-serif;
     box-shadow: 0 0 2rem rgba(0,0,0,.15);
@@ -11,9 +11,22 @@
 
         .active {
             a {
-                color: #f94c3b;
+                color: #E76F51;
             }
         }
+
+        a {
+            color: darken(#FFFFFF, 10%);
+            transition: all .2s ease-in-out;
+
+            &:hover {
+                color: lighten(#FFFFFF, 10%);
+            }
+        }
+    }
+
+    .navbar-brand {
+        color: #FFFFFF;
     }
 
     .navbar-toggler {
